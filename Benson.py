@@ -1,0 +1,1 @@
+print('Benson is the worst teacher in the history of teachers')
